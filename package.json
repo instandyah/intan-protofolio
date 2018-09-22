@@ -19,6 +19,7 @@
     "vue": "^2.1.10"
   },
   "dependencies": {
+    "hoek": "^5.0.4",
     "laravel-echo": "^1.4.0",
     "pusher-js": "^4.2.2"
   }
